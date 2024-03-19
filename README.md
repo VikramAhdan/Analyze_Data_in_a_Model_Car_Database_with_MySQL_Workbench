@@ -16,8 +16,10 @@ The Mint Classics Inventory Optimization Project aims to leverage SQL-based data
    - Recommendations are formulated based on the analysis to optimize inventory and potentially close a storage facility.
    - Findings are presented in a clear and actionable manner, addressing areas for improvement in inventory management.
 
-## Key Findings
+## Interactive Dashboard
+![Interactive Dashboard](Dashbord.JPG)
 
+## Key Findings
 1. **Warehouse Distribution:**
    - Items are distributed across North, East, West, and South warehouses, suggesting potential for rearrangement to optimize storage.
 
